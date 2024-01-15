@@ -1,8 +1,9 @@
 import React from "react";
 import AnimatedText from "./AnimatedText";
 import FeaturedProject from "./FeaturedProject";
-import SingleProject from "./singleProject";
+
 import PageTransition from "./PageTransition";
+import SingleProject from "./SingleProject";
 
 const Projects = () => {
   return (
