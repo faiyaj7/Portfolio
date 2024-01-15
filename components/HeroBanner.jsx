@@ -53,6 +53,7 @@ const HeroBanner = () => {
       <div className="absolute right-8 bottom-8 inline-block w-24 md:hidden">
         <Image
           src="\images\svgs\miscellaneous_icons_1.svg"
+          alt="Bulb"
           width={400}
           height={400}
           className="w-full h-auto"

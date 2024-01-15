@@ -22,15 +22,15 @@ const About = () => {
               BioGraphy
             </h2>
             <p className="font-medium">
-              Hi, I'm CodeBucks, a web developer and UI/UX designer with a
+              Hi, I&apos;m CodeBucks, a web developer and UI/UX designer with a
               passion for creating beautiful, functional, and user-centered
               digital experiences. With 4 years of experience in the field. I am
-              always looking for new and innovative ways to bring my clients'
+              always looking for new and innovative ways to bring my clients
               visions to life.
             </p>
             <p className="font-medium my-4">
               I believe that design is about more than just making things look
-              pretty – it's about solving problems and creating intuitive,
+              pretty – it&apos;s about solving problems and creating intuitive,
               enjoyable experiences for users.
             </p>
           </div>
