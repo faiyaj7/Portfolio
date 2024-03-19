@@ -22,11 +22,27 @@ const About = () => {
               BioGraphy
             </h2>
             <p className="font-medium">
-              Hi, I&apos;m CodeBucks, a web developer and UI/UX designer with a
-              passion for creating beautiful, functional, and user-centered
-              digital experiences. With 4 years of experience in the field. I am
-              always looking for new and innovative ways to bring my clients
-              visions to life.
+              I&apos;m Faiyaj Bin Ahmed, a seasoned web developer proficient in
+              MERN stack and Next.js. My journey in the realm of web development
+              has been characterized by a relentless pursuit of creating not
+              only visually stunning interfaces but also highly functional and
+              user-centric digital experiences.
+            </p>
+            <p className="font-medium  my-4">
+              I am deeply passionate about transforming my clients' visions into
+              reality, consistently seeking innovative approaches to elevate the
+              digital landscape. For me, design transcends mere aesthetics; it's
+              a dynamic process of problem-solving, aimed at crafting intuitive
+              and enjoyable experiences for users. With a diverse portfolio of
+              successful projects, I bring a wealth of experience to the table.
+            </p>
+            <p className="font-medium  my-4">
+              {" "}
+              My commitment goes beyond just writing code; it's about weaving
+              together technology and creativity to deliver solutions that
+              resonate with both clients and end-users alike. Let's collaborate
+              and bring your digital aspirations to life through a seamless
+              fusion of design and functionality.
             </p>
             <p className="font-medium my-4">
               I believe that design is about more than just making things look
@@ -72,7 +88,7 @@ const About = () => {
             <div className="flex flex-col items-end justify-center xl:items-center">
               <span className=" text-7xl md:text-6xl sm:text-5xl xs:text-4xl  font-bold">
                 {" "}
-                <AnimatedNumbers value={"2"} />+
+                <AnimatedNumbers value={"1 "} />+
               </span>
               <h2 className="text-xl md:text-xs font-medium capitalize text-dark/75 dark:text-white">
                 Experience

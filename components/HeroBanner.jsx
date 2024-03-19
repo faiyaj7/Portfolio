@@ -26,13 +26,13 @@ const HeroBanner = () => {
         />
         <p className="text-base font-medium  dark:text-white">
           As a skilled full-stack developer, I am dedicated to turning ideas
-          into innovative web applications. Explore my latest projects and
-          articles, showcasing my expertise in React.js and web development.
+          into innovative web applications. Explore my latest projects
+          showcasing my expertise in MERN Stack and Next Js.
         </p>
         <div className="flex items-center justify-start md:justify-center md:gap-4 md:mt-5 mt-2 mb-10 lg:self-center">
           <Link
             download={true}
-            href="/dummy.pdf"
+            href="/FaiyajBinAhmedCV.pdf"
             target={"_blank"}
             className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg 
             font-semibold hover:bg-light hover:text-dark border-2 border-solid 

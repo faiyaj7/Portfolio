@@ -47,7 +47,28 @@ const Projects = () => {
               img="/kinbo.png"
             />
           </div>
+          <div className="col-span-12 md:col-span-4 ">
+            <FeaturedProject
+              type="Featured Project"
+              title="The Weirdos"
+              summary="The Weirdos Club is an exclusive NFT platform showcasing a private collection of unique digital collectibles. These one-of-a-kind Weirdos are securely stored as ERC-721 tokens on the Ethereum blockchain and are seamlessly hosted on IPFS for decentralized accessibility. Built with cutting-edge technologies, the platform is crafted using React for dynamic user interactions and Tailwind CSS for a sleek and responsive design. Join The Weirdos Club to explore and own these distinct NFTs, each a masterpiece in the world of digital collectibles."
+              link="https://the-weirdos-two.vercel.app"
+              github="https://github.com/faiyaj7/The-Weirdos"
+              img="/weirdos.png"
+            />
+          </div>
           <div className="col-span-6 md:col-span-4">
+            <SingleProject
+              type=" Project"
+              title="VividVentures"
+              summary="Welcome to VividVentures, an innovative e-commerce platform built on cutting-edge technologies to provide users with a seamless and engaging shopping experience. Our platform leverages the power of React, Framer Motion, MongoDB, Mongoose, Express.js, Redux Toolkit, Stripe, and Tailwind CSS to create a robust and feature-rich online shopping environment."
+              link="https://vivid-ventures-iota.vercel.app/"
+              github="https://github.com/faiyaj7/VividVentures"
+              img="/vividventures.png"
+            />
+          </div>
+          {/* incomplete */}
+          {/* <div className="col-span-6 md:col-span-4">
             <SingleProject
               type=" Project"
               title="BhromomKori"
@@ -56,7 +77,7 @@ const Projects = () => {
               github="https://github.com/faiyaj7/Travel-App"
               img="/kinbo.png"
             />
-          </div>
+          </div> */}
         </div>
       </section>
     </>

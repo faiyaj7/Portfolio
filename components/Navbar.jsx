@@ -138,7 +138,7 @@ const Navbar = () => {
             <GithubIcon />
           </SocialLink>
           <SocialLink
-            href="/projects"
+            href="https://www.linkedin.com/in/faiyaj-bin-ahmed-16b5a8200/"
             target={"_blank"}
             className="w-6 "
             whileHover={{ y: -3 }}
