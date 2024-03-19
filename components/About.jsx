@@ -29,18 +29,18 @@ const About = () => {
               user-centric digital experiences.
             </p>
             <p className="font-medium  my-4">
-              I am deeply passionate about transforming my clients' visions into
+              I am deeply passionate about transforming my clients visions into
               reality, consistently seeking innovative approaches to elevate the
-              digital landscape. For me, design transcends mere aesthetics; it's
+              digital landscape. For me, design transcends mere aesthetics&#59; it&apos;s
               a dynamic process of problem-solving, aimed at crafting intuitive
               and enjoyable experiences for users. With a diverse portfolio of
               successful projects, I bring a wealth of experience to the table.
             </p>
             <p className="font-medium  my-4">
               {" "}
-              My commitment goes beyond just writing code; it's about weaving
+              My commitment goes beyond just writing code&#59; it&apos;s about weaving
               together technology and creativity to deliver solutions that
-              resonate with both clients and end-users alike. Let's collaborate
+              resonate with both clients and end-users alike. Let&apos;s collaborate
               and bring your digital aspirations to life through a seamless
               fusion of design and functionality.
             </p>
